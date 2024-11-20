@@ -1,0 +1,14 @@
+{
+  "name": "currentlocationplugin",
+  "version": "1.0.0",
+  "description": "this is currentlocation plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "location"
+  ],
+  "author": "Deep Thakre",
+  "license": "ISC"
+}
